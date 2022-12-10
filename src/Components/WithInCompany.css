@@ -1,0 +1,24 @@
+.container2 {
+    background-color: #9B9999;
+    width: 600px;
+    height: 140px;
+
+    position: relative;
+    top: 250px;
+    left: -250px;
+    display: inline-block;
+}
+
+.head-3__company {
+    background-color: transparent;
+    color: white;
+    position: relative;
+    left: 30px;
+}
+
+.head-3__techStack {
+    background-color: transparent;
+    color: white;
+    position: relative;
+    left: 30px;
+}
